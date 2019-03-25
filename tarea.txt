@@ -1,0 +1,11 @@
+investigar :
+mas informacion sobre CSS
+que es CSS
+sintaxis css
+selectores basicos css
+formas de insertas css
+selectores avanzados
+unidades css
+dimensiones  en css
+posicions  con css
+posiscion float

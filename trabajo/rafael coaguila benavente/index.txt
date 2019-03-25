@@ -1,0 +1,218 @@
+<html>
+<head>
+
+<style type="text/css">
+  html {
+        height:100%;
+        width:100%;
+    }
+body {
+
+background-attachment: fixed;
+background-image: url(images/fondoo.gif);
+background-repeat: no-repeat;
+background-position: center center;
+background-size:100% 100%;
+cursor: url(images/league.cur), auto;
+
+}
+
+</style>
+<title>juegos online</title>
+
+</head>
+
+<BODY > 
+<center>
+<table border="0" width="1187" id="table1" cellspacing="0" cellpadding="0" height="208">
+	<tr>
+		<td colspan="5" height="22">
+		<center>
+		<table border="1" width="886" id="table2" style="border-width: 0px" cellspacing="0" cellpadding="0">
+			<tr>
+				<td style="border-style: none; border-width: medium">
+		<a href="index.html">		<img src="images/home.png" width="145" height="78" onMouseOver="this.src='images/home2.png';" onMouseOut="this.src='images/home.png';" /></a></td>
+
+				<td style="border-style: none; border-width: medium">
+		<a href="https://signup.lan.leagueoflegends.com/es/signup/index#/">		<img src="images/register.png" width="101" height="78" onMouseOver="this.src='images/register2.png';" onMouseOut="this.src='images/register.png';" /></a></td>
+
+				<td style="border-style: none; border-width: medium">
+			<a href="https://signup.lan.leagueoflegends.com/es/signup/redownload">	<img src="images/download.png" width="116" height="78" onMouseOver="this.src='images/download2.png';" onMouseOut="this.src='images/download.png';" /></a></td>
+
+				<td style="border-style: none; border-width: medium">
+			<img border="0" src="images/log_menu.png" width="195" height="78"></td>
+				<td style="border-style: none; border-width: medium">
+		<a href="https://www.leagueofgraphs.com/es/rankings/summoners/lan">			<img src="images/ranking.png" width="102" height="78" onMouseOver="this.src='images/ranking2.png';" onMouseOut="this.src='images/ranking.png';" /></a></td>
+				<td style="border-style: none; border-width: medium">
+		<a href="https://las.leagueoflegends.com/es/news/store">			<img src="images/webshop.png" width="92" height="78" onMouseOver="this.src='images/webshop2.png';" onMouseOut="this.src='images/webshop.png';" /></a></td>
+				<td style="border-style: none; border-width: medium">
+		<a href="https://boards.las.leagueoflegends.com/es/">			<img src="images/forum.png" width="165" height="78" onMouseOver="this.src='images/forum2.png';" onMouseOut="this.src='images/forum.png';" /></a></td>
+			</tr>
+		</table></center>
+<center><img  src="images/lel.png" alt="League of legends"></center>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="5" height="20">&nbsp;</td>
+	</tr>
+	<tr>
+		<td height="12" width="265" valign="top">
+
+
+
+
+		<table border="1" width="206" id="table14" style="border-width: 0px" cellspacing="0" cellpadding="0">
+			<tr>
+				<td style="border-style: none; border-width: medium" height="84">&nbsp;</td>
+			</tr>
+			<tr>
+				<td style="border-style: none; border-width: medium">
+				<img border="0" src="images/usercp.png" width="265" height="87"></td>
+			</tr>
+			<tr>
+				<td style="border-style: none; border-width: medium" background="images/cont.png" valign="top">
+				<table border="0" width="100%" id="table15" cellspacing="0" cellpadding="0">
+					<tr>
+						<td width="19">&nbsp;</td>
+						<td><p><b>Login:</b> ingrese sus datos</p><p><b>Password:</b> ingrese contraseña</p></td>
+                                                
+
+
+						<td width="21">&nbsp;</td>
+					</tr>
+				</table>
+				</td>
+			</tr>
+			<tr>
+				<td style="border-style: none; border-width: medium">
+				<img border="0" src="images/cont2.png" width="265" height="67"></td>
+			</tr>
+			<tr>
+				<td style="border-style: none; border-width: medium">&nbsp;</td>
+			</tr>
+			<tr>
+				<td style="border-style: none; border-width: medium">
+				<img border="0" src="images/menu.png" width="265" height="87"></td>
+			</tr>
+			<tr>
+				<td style="border-style: none; border-width: medium" background="images/cont.png" valign="top">
+				<table border="0" width="100%" id="table16" cellspacing="0" cellpadding="0">
+					<tr>
+						<td width="19">&nbsp;</td>
+						<td><b><p><a href="http://forums.euw.leagueoflegends.com/board/showthread.php?t=701337" style="text-decoration:none;color:black">Sugerencias</a></p><p><a href="https://signup.lan.leagueoflegends.com/es/signup/redownload" style="text-decoration:none;color:black">Descargar</a></p><p><a href="" style="text-decoration:none;color:black"> Chat online</a></p></b></td>
+						<td width="21">&nbsp;</td>
+					</tr>
+				</table>
+				</td>
+			</tr>
+			<tr>
+				<td style="border-style: none; border-width: medium" valign="top">
+				<img border="0" src="images/cont2.png" width="265" height="67"></td>
+			</tr>
+		</table>
+		</td>
+		<td width="35" valign="top">
+		&nbsp;</td>
+		<td width="481" valign="top">
+		<table border="1" width="384" id="table12" style="border-width: 0px" cellspacing="0" cellpadding="0">
+			<tr>
+				<td style="border-style: none; border-width: medium">
+				<img border="0" src="images/contenido1.png" width="621" height="158"></td>
+                                
+			</tr>
+			<tr>
+				<td style="border-style: none; border-width: medium" background="images/contenido.png" valign="top">
+				<table border="1" width="100%" id="table13" style="border-width: 0px">
+					<tr>
+                                               <td style="border-style: none; border-width: medium" width="25">&nbsp;</td>
+						<td style="border-style: none; border-width: medium"height="0">&nbsp;<p><center><h1>¿Qué es League of Legends?</h1></center>
+League of Legends es un juego competitivo en línea de ritmo frenético, que fusiona la velocidad y la intensidad de la estrategia en tiempo real (ETR) con elementos de juegos de rol. Dos equipos de poderosos campeones, cada uno con un diseño y estilo de juegos únicos, compiten cara a cara a través de diversos campos de batalla y modos de juego. Con un plantel de campeones en constante expansión, actualizaciones frecuentes y un emocionante panorama competitivo, League of Legends ofrece posibilidades de juego ilimitadas a usuarios de todos los niveles de habilidad.</p></td>
+						<td style="border-style: none; border-width: medium" width="30">&nbsp;</td>                                      
+                                              <tr>
+						<td style="border-style: none; border-width: medium" width="25">&nbsp;</td>
+						<td style="border-style: none; border-width: medium"height="500">&nbsp;
+
+
+
+<center>
+<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FLeagueofLegendsLatino%2F%3Fepa%3DSEARCH_BOX&tabs=timeline&width=400&height=600&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="400" height="600" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+</center>
+</td>
+						<td style="border-style: none; border-width: medium" width="30">&nbsp;</td>
+                                              </tr>
+					</tr>
+				</table>
+				</td>
+			</tr>
+			<tr>
+				<td style="border-style: none; border-width: medium">
+				<img border="0" src="images/contenido2.png" width="621" height="179"></td>
+			</tr>
+			<tr>
+				<td style="border-style: none; border-width: medium">&nbsp;</td>
+			</tr>
+		</table>
+		</td>
+		<td width="35" valign="top">
+		&nbsp;</td>
+		<td width="265" valign="top">
+		<table border="1" width="265" id="table17" style="border-width: 0px" cellspacing="0" cellpadding="0">
+			<tr>
+				<td style="border-style: none; border-width: medium" height="84" width="265">&nbsp;</td>
+			</tr>
+			<tr>
+				<td style="border-style: none; border-width: medium" width="265">
+				<img border="0" src="images/reset.png" width="265" height="87"></td>
+			</tr>
+			<tr>
+				<td style="border-style: none; border-width: medium" background="images/cont.png" valign="top" width="265">
+				<table border="0" width="100%" id="table18" cellspacing="0" cellpadding="0">
+					<tr>
+						<td width="19">&nbsp;</td>
+						<td><b><p><a href="https://support.riotgames.com/hc/es/articles/202539040-Reinstalar-League-of-Legends" style="text-decoration:none;color:black"> Instalador de fabrica</a></p><p><a href="https://boards.las.leagueoflegends.com/es/c/ayuda-y-soporte/e0ksW8QA-modo-seguro-de-windows-7" style="text-decoration:none;color:black"> Aprueba de fallos</a></p></b> </td>
+						<td width="21">&nbsp;</td>
+					</tr>
+				</table>
+				</td>
+			</tr>
+			<tr>
+				<td style="border-style: none; border-width: medium" width="265">
+				<img border="0" src="images/cont2.png" width="265" height="67"></td>
+			</tr>
+			<tr>
+				<td style="border-style: none; border-width: medium" width="265">&nbsp;</td>
+			</tr>
+			<tr>
+				<td style="border-style: none; border-width: medium" width="265">
+				<img border="0" src="images/guild.png" width="265" height="87"></td>
+			</tr>
+			<tr>
+				<td style="border-style: none; border-width: medium" background="images/cont.png" valign="top" width="265">
+				<table border="0" width="100%" id="table19" cellspacing="0" cellpadding="0">
+					<tr>
+						<td width="19">&nbsp;</td>
+						<td><b><p>Operation7</p><p>Black Phanter</p><p>ZeroSkill</p></b></td>
+						<td width="21">&nbsp;</td>
+					</tr>
+				</table>
+				</td>
+			</tr>
+			<tr>
+				<td style="border-style: none; border-width: medium" valign="top" width="265">
+				<img border="0" src="images/cont2.png" width="265" height="67"></td>
+			</tr>
+		</table>
+		</td>
+	</tr>
+</table></center>
+<center> 
+<a href="index.html" style="color:#ffffbf">Home</a> -
+<a href="https://signup.lan.leagueoflegends.com/es/signup/redownload" style="color:#ffffbf">Downloads</a> -
+<a href="https://boards.las.leagueoflegends.com/es/" style="color:#ffffbf">Forum </a> -
+<a href="https://support.riotgames.com/hc/es-419" style="color:#ffffbf">Support </a>
+<br><font color="white">Copyright 2019 Contactenos a nuestra Facebook:
+<a href="http://www.facebook.com/rafaelsalasbenavente" style="color:#ffffbf">Facebook</a></font></br>
+
+</center>
+</body>
+</html>

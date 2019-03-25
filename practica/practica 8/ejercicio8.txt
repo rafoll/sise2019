@@ -1,0 +1,15 @@
+<html>
+<head>
+<title> guia avanzada </title>
+<p>Diarios de: </p>
+<p> 1. ESPAÑA...</p>
+       <ol>a. Mundo</ol>
+       <ol>b. El pais</ol>
+       <ol>c. la vanguardia</ol>
+<p> 2. EE.UU.
+       <ol>I. New york times</ol>
+       <ol>II. The washington post</ol>
+</head>
+<body>
+</body>
+</html>

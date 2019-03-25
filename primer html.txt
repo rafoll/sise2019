@@ -1,0 +1,55 @@
+<html>
+<head>
+
+<title>rafael felipe</title>
+
+<script type="text/javascript">...</script>
+<script> 
+var par=false; 
+function parpadeo() { 
+    col=par ? 'white' : 'black'; 
+    document.getElementById('txt').style.color=col; 
+    par = !par; 
+    setTimeout("parpadeo()",500); //500 = medio segundo 
+} 
+window.onload=parpadeo; 
+</script> 
+
+
+
+</head>
+
+<body bgcolor="red">
+ <span id="txt"><h1><b><i>la vidasdfsdfsdfo</i></b></h1></span> 
+
+
+
+
+<font color="#ffffff"><p>Podemos crear un párrafo <b>resaltando</b>
+parte de sus contenidos.</p></font03:07 p.m. 05/02/2019>
+
+<img src="homero.jpeg">
+
+<font color="#00FFFF">
+<p><b> aqui vemos a homero claramente pensando  a que hora sera su hora de salida uhmmmm.
+contemos
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+parte de sus contenidos.</b></p>
+</font03:07 p.m. 05/02/2019>
+
+</body>
+
+</html>
+
+

@@ -1,0 +1,35 @@
+<html>
+<head>
+<title>Juegos</title>
+</head>
+
+<body bgcolor="black" text="white">
+<p>Galeria de juegos online</p><img src="logo1.jpg">
+<img src="inicio.png"><img src="registrar.png"><img src="desca.png"><img src="ranking.png">
+<p><img src="juego en total.jpg"></p>
+
+
+<p>El juego, como actividad de ocio y entretenimiento, ha acompañado históricamente al ser humano en sus diferentes entornos y de manera diversa, conforme a su natural evolución. Los juegos con formato presencial han ido utilizando nuevas tecnologías, ajustándose a las demandas del cliente.</p>
+
+<>Recientemente ha proliferado el canal online, consecuencia de la globalización económica y la “explosión” de las TIC. El perfil del usuario se consolida en las nuevas generaciones, predominando los nativos digitales (“Z”) y los millenials (“Y”), modificándose también las posibles tipologías adictivas.
+
+El juego online posee unas características que contribuyen a considerarlo potencialmente más atractivo y/o adictivo que el presencial (o tradicional). Entre ellas podemos señalar:
+
+Su atracción, ya que la tecnología y los nuevos desarrollos son el “ecosistema” de las nuevas generaciones.
+Su accesibilidad (365 días/24 horas), ampliada por la conexión inalámbrica libre (wifi) y el abaratamiento de las tarifas, facilitando su ubicuidad, sin tener que prepararse para acudir a un local de juego (mayor “comodidad”).
+El anonimato, a pesar del registro obligatorio, no estando inmerso en un entorno que posibilite reconocer claramente sus actuaciones, cuestionarlas y/o criticarlas (“control” social presencial), contribuyendo al aislamiento
+La velocidad de desconexión de entornos personales (laboral, familiar, amistades…), favoreciendo la rápida evasión al eludir sus problemas o preocupaciones.
+La simulación en las webs que permiten aprender a jugar mediante “demos”, y la intangibilidad que reduce la sensación del dinero (“monederos virtuales”, tarjetas bancarias…) y el tiempo empleados. Ambos aspectos reducen la percepción de los posibles riesgos y excesos.
+La variedad infinita de modificaciones digitales, multiplicando las posibilidades de los distintos juegos, mucho más ágil que en el ámbito presencial, adaptándose a los intereses de entretenimiento más diversos.
+La publicidad, en ocasiones excesiva y descontrolada, junto a su promoción, mediante “bonos” u otro tipo de obsequios, sin depósitos previos o multiplicando el dinero empleado, contribuyen a fomentar el juego.
+La inmediatez entre uso, apuesta y resultado, aumentando exponencialmente un posible trastorno adictivo.
+Su descontrol, a pesar de los filtros establecidos (públicos y/o privados), aflorando la presencia prohibida de menores usando datos falsos o suplantando personalidades (documento de identidad; fecha de nacimiento; datos bancarios…).
+A pesar de su regulación, la posible ilegalidad, existiendo webs no autorizadas o por la facilidad de eludir las restricciones legales implementadas en la Red.
+Y la rapidez con la que aparecen y evolucionan los problemas y trastornos por conductas
+
+No existe una clara distinción entre jugadores problemáticos presenciales y los específicos online (vía Internet), aunque sí ha disminuido tanto la edad de inicio (ilegalidad), como algunos parámetros tradicionales del posible trastorno (enfermedad).
+
+En general, los juegos online (no solamente de Azar) han demostrado tener un gran poder de seducción, especialmente entre la juventud. La penetración de internet en los hogares es cada vez más amplia y el uso de los dispositivos móviles (smartphones, tablets…) se produce a edades más tempranas, sin el oportuno control. Es fundamental educar, sensibilizar y prevenir en el uso adecuado y responsable de esta actividad.
+
+</body>
+</html>
